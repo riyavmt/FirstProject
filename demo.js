@@ -1,2 +1,2 @@
 console.log("I Love GIT!")
-console.log("Hello World")
+console.log("Hello")
